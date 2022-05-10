@@ -1,6 +1,7 @@
 {
     "name": "clevyr/nova-filemanager",
     "description": "Filemanager tool for Laravel Nova",
+    "type": "library",
     "keywords": [
         "laravel",
         "nova",

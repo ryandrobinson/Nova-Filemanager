@@ -1,5 +1,5 @@
 {
-    "name": "infinety-es/nova-filemanager",
+    "name": "clevyr/nova-filemanager",
     "description": "Filemanager tool for Laravel Nova",
     "keywords": [
         "laravel",
